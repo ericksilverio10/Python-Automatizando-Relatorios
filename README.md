@@ -10,6 +10,7 @@
   <img src="assets/code_print.png">
   
 ## Esse programa vai ler o arquivo Excel, e vai criar um gráfico pra mim da quantidade de gastos que cada cliente teve:
+  <img src= "assets/grafico_print.png">
   
 ## Além disso ele irá me mostrar no console: O nome do cliente e quanto de gasto esse cliente teve em R$:
  <img src= "assets/console_print.png">
